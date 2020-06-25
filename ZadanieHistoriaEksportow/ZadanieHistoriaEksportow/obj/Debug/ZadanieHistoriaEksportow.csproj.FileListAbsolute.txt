@@ -1,0 +1,13 @@
+C:\Users\Mateusz\source\repos\ZadanieHistoriaEksportow\ZadanieHistoriaEksportow\bin\Debug\ZadanieHistoriaEksportow.exe.config
+C:\Users\Mateusz\source\repos\ZadanieHistoriaEksportow\ZadanieHistoriaEksportow\bin\Debug\ZadanieHistoriaEksportow.exe
+C:\Users\Mateusz\source\repos\ZadanieHistoriaEksportow\ZadanieHistoriaEksportow\bin\Debug\ZadanieHistoriaEksportow.pdb
+C:\Users\Mateusz\source\repos\ZadanieHistoriaEksportow\ZadanieHistoriaEksportow\obj\Debug\ZadanieHistoriaEksportow.csprojAssemblyReference.cache
+C:\Users\Mateusz\source\repos\ZadanieHistoriaEksportow\ZadanieHistoriaEksportow\obj\Debug\ZadanieHistoriaEksportow.Properties.Resources.resources
+C:\Users\Mateusz\source\repos\ZadanieHistoriaEksportow\ZadanieHistoriaEksportow\obj\Debug\ZadanieHistoriaEksportow.csproj.GenerateResource.cache
+C:\Users\Mateusz\source\repos\ZadanieHistoriaEksportow\ZadanieHistoriaEksportow\obj\Debug\ZadanieHistoriaEksportow.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\ZadanieHistoriaEksportow\ZadanieHistoriaEksportow\obj\Debug\ZadanieHistoriaEksportow.exe
+C:\Users\Mateusz\source\repos\ZadanieHistoriaEksportow\ZadanieHistoriaEksportow\obj\Debug\ZadanieHistoriaEksportow.pdb
+C:\Users\Mateusz\source\repos\ZadanieHistoriaEksportow\ZadanieHistoriaEksportow\obj\Debug\ZadanieHistoriaEksportow.Form1.resources
+C:\Users\Mateusz\source\repos\ZadanieHistoriaEksportow\ZadanieHistoriaEksportow\bin\Debug\Dapper.dll
+C:\Users\Mateusz\source\repos\ZadanieHistoriaEksportow\ZadanieHistoriaEksportow\bin\Debug\Dapper.xml
+C:\Users\Mateusz\source\repos\ZadanieHistoriaEksportow\ZadanieHistoriaEksportow\obj\Debug\ZadanieHistoriaEksportow.csproj.CopyComplete
